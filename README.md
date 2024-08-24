@@ -1,5 +1,5 @@
 <h4>Understanding and Triggering Sentinel</h4>
-<p>blah  </p>
+<p>blah !</p>
 <p>
   <img src="" height="80%" width="80%" />
 </p>
